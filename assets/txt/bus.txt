@@ -1,0 +1,113 @@
+SCENE CONTEXT
+EXACT 4 HUMANS AND 1 DINOSAUR — NO DUPLICATES: THE CONDUCTOR, THE OLD WOMAN, PASSENGER A, PASSENGER B, THE TRICERATOPS. No other people, no other animals, no second dinosaur anywhere in the shot.
+A single continuous 7-second handheld camcorder take at a roadside stop in the late afternoon of 2003. A triceratops stands at the kerb with a low open passenger rig strapped to his back — this is the local bus, and the route operator mark is painted straight onto his hide. The last passenger boards, the conductor slaps his flank twice, and the animal walks out of frame.
+
+ACTIVE REFERENCES
+The attached image is LOGO ARTWORK ONLY. Its role is a flat graphic painted onto the animal hide inside the scene. It is not a character reference, not a style reference and not an environment reference, and nothing else in the frame takes any appearance from it. Reproduce the mark exactly as supplied: the word RIDGE in bold capitals — R, I, D, G, E — with its wing mark, in one flat solid white paint, and no other version of the mark and no other wording anywhere.
+
+LOCATION MAP (locked — pure spatial map)
+— THE STREET: a suburban roadside stop. Cracked asphalt patched in mismatched black rectangles, a high poured-concrete kerb, a strip of dead grass behind it.
+— THE TRICERATOPS STANDS ACROSS THE FRAME, left to right, side-on to the camera, filling the middle band of the picture. His head is out past the left edge and his tail is out past the right edge.
+— HIS FLANK is the largest surface in the shot, filling x 30% to 66% of frame between his front and back legs.
+— THE RIG sits on his back above that flank: a quilted saddle blanket and a low welded steel frame with two wooden bench seats and waist-high tube railings, open on all sides. A short folding ladder hangs from its rear at x 66%.
+— THE ANCHOR: a steel and cracked-plexiglass bus shelter stands at x 78%, behind the kerb, a concrete slab fence with diamond relief running away behind it.
+— BACKGROUND: single-storey clapboard houses frame-left with a rug airing over one porch rail, tin garages and a boxy old sedan frame-right, one grey concrete nine-storey panel block above the treeline in the far distance, cables sagging across the sky.
+— FOREGROUND, lower-left corner: an overgrown hedge close to the lens, out of focus.
+— 180° AXIS: the camera stays on the kerb side of the street for all seven seconds and never crosses to the far side of the animal.
+— Eyelines: the boarding passenger looks at the ladder and her own feet. The conductor looks at her, then at the animal shoulder. The triceratops looks straight ahead down the street for the entire shot and never at the camera.
+
+SCALE LOCK — VISIBLE PROOF IN THE PICTURE
+The triceratops is roughly nine metres long and the frame cannot hold him: his frilled head is out past the left edge and his tail is out past the right edge at every moment. His back is at the height of a first-floor window behind him, and the seated passengers sit higher than the roof of the bus shelter. A standing adult at the kerb reaches only to the top of his front leg. The folding ladder needs five rungs to reach the seats.
+A triceratops that fits inside the frame, or one an adult could climb without a ladder, = failed take. If scale is ever uncertain, render the humans SMALLER, never larger.
+
+FIRST FRAME AND SPATIAL BLOCKING
+ARMATURE: one massive horizontal mass — the animal — running the full width of frame, with a light open lattice sitting on top of it: the railings and the seated figures. Four pillar legs drop from that horizontal.
+VALUE: the animal is one large dark mass across a light field of pale asphalt and blown-out sky. His flank is the darkest continuous plane in the picture, and the white mark painted across it is the brightest hard-edged shape anywhere in the frame. The single highest contrast in the picture is that white mark against the grey hide.
+LINE: the spine, the seat line, the railings and the kerb all run flat and horizontal and stack into parallel bands. The ladder is the one diagonal, and it points at the boarding passenger.
+The first frame is already the full stop with everyone in place, moving, mid-action — no empty establishing beat, no camera move on frame one.
+THE TRICERATOPS stands at x 0% to 100%, side-on, all four feet planted at the kerb, head to frame-left.
+THE OLD WOMAN is at x 68%, on the third rung of the ladder, one hand on the rail, one heavy bag in the other.
+THE CONDUCTOR stands at x 74%, on the asphalt at the foot of the ladder, one hand under her elbow.
+PASSENGER A sits on the front bench at x 40%, in full view above the railing, looking out at the street.
+PASSENGER B sits on the rear bench at x 56%, a bag on her knees.
+
+CHARACTERS (no reference images — these descriptions are the identity)
+THE TRICERATOPS: a huge four-legged horned dinosaur, roughly nine metres long, low and immensely heavy. Thick grey-brown pebbled hide with a warmer clay tone along the flanks, deep creases folding at the shoulder and hip, a broad bony neck frill, two long brow horns and one short nose horn. Short pillar legs with splayed toes. A thick padded leather harness runs around his barrel and over his shoulders, buckled with heavy brass, and the hide is rubbed bare and shiny where it has sat for years. He is calm, patient and completely used to this.
+THE RIG: a quilted saddle blanket in faded dark red, worn thin and dusty, with a low welded steel frame bolted through it — two wooden bench seats polished by use, waist-high tube railings on three sides, open to the air. No walls, no roof, no panels of any kind. A folding steel ladder on its rear hinge.
+THE CONDUCTOR: a 40-year-old woman in a shapeless quilted jacket and a headscarf, a canvas money bag on a strap across her chest, a roll of paper tickets in one hand.
+THE OLD WOMAN: a woman in her seventies in a heavy worn coat and headscarf, thick tights, one overloaded unbranded shopping bag.
+PASSENGER A: a 50-year-old man in a flat cap and a drab worn jacket. PASSENGER B: a 30-year-old woman in a plain buttoned coat.
+All clothing is second-hand, washed thin and sun-faded, in the same muted dusty range as the street — nothing new, nothing matching, nothing saturated.
+
+THE LOGO — WHERE IT LIVES
+The supplied RIDGE mark is painted directly onto the animal, on the broad flat plane of his flank between the front and back legs, below the saddle blanket and above the belly line. It is large — spanning roughly a third of his body length — and it faces the camera square-on.
+It is stencilled paint on living hide, the way a working animal is marked: flat matte white, absorbed slightly into the pebbled skin texture so the grain of the hide shows faintly through it, hairline cracking where the paint has dried and flexed, chalky fading across the whole mark, dust settled into its lower edges, and one corner rubbed thin where the harness strap crosses it. It takes exactly the same daylight and the same shading as the hide around it, and it stays flat and unlit — it never glows and it never looks like a decal laid over the picture.
+The paint belongs to the skin: it follows the contour of the flank, sinking into the deep creases and pulling gently over the ribs, and it moves with the hide as one single printed graphic.
+This mark appears EXACTLY ONCE in the entire frame. It is the only lettering anywhere in the shot.
+
+FORMAT MODE
+One continuous 7-second shot in real time. The camera does not cut on its own. No speed ramps.
+
+OPTICS
+The camera stands 10 metres from the animal flank, on the kerb side, square-on to it, and does not change its physical position at any point — the only optical movement is the lens zooming in once.
+Camera height 1.5 metres — the horizon crosses the animal below the line of his back, so the seated passengers sit above the horizon against the sky.
+0.0s to 1.8s: 63 degrees diagonal field of view, observational wide, the whole stop readable to the frame edges, straight lines carrying gentle barrel curvature toward the corners.
+1.8s to 7.0s: 29 degrees diagonal field of view, short-telephoto compression, the background pressed flat behind the animal, the marked flank filling the middle of the frame. Reached by the lens zooming from the same physical spot, never by the camera walking closer.
+Focus is a consumer autofocus that hunts: it lags a beat behind every reframe, overshoots, breathes, and settles. Soft oval bokeh. Clean crisp glass at the frame centre, softness smearing into the corners, chromatic fringing at the frame edges.
+
+CAMERA
+Handheld, carried by a real person with real arm weight: a constant 2 to 4 centimetre tremor, small searching reframes, organic weight shifts, and a visible lag before the camera swings toward anything that moves. The framing is imperfect and constantly corrected. Auto-exposure pumps as the framing swings between the dark hide and the bright sky, brightening and then correcting over about half a second.
+The camera stays in one spot on the kerb for all seven seconds. It never walks forward, never crosses the street and never leaves the ground.
+
+ACTION TIMING
+0.0s–0.6s — Everything is already moving. THE OLD WOMAN climbs the ladder one slow rung at a time, her bag hanging and swinging. THE CONDUCTOR steadies her elbow from below. PASSENGER A shifts on the bench and looks off down the street. The animal blinks and his ribs rise once with a slow breath, and the whole painted flank swells and settles with it. The camera holds the wide, drifting a few degrees.
+0.6s–1.8s — The old woman reaches the top and the conductor hands the bag up after her. The animal shifts his weight from one front foot to the other; the rig rocks gently and both seated passengers ride it out without looking up. The camera drifts left along the body toward the middle of the flank.
+1.8s–2.6s — A hard crash zoom in on the flank. The lens punches from the wide onto the painted hide, the framing overshooting past it, snapping back, the autofocus hunting through it and pulling into focus. The image is smeared and soft for a fraction of a second, then lands sharp with the white RIDGE mark filling the middle of the frame, the railings and passengers above it and the shadowed belly below.
+2.6s–3.6s — Held on the flank. Nothing moves except the slow breathing under the paint, which lifts and lowers the whole marked surface, and the ribs rolling faintly beneath the hide. PASSENGER A turns his head above the railing. The white paint sits flat and chalky in the daylight, its cracked edges and its worn corner legible, the pebbled skin texture showing faintly through it.
+3.6s–4.2s — THE CONDUCTOR hand enters the frame from the right, low, and slaps the hide twice, hard and flat, right beside the mark. The flesh gives and quivers under the impact and a small cloud of dust lifts off the skin. Her hand withdraws.
+4.2s–5.6s — The animal starts walking. The shoulder rolls first, then the whole mass moves, and the marked flank slides steadily out of frame to the left, the paint creasing and stretching over the working muscle as it goes. Behind it come the railings, the ladder swinging on its hinge, the folded rump and finally the tail passing through the frame. Everything sways heavily with each footfall and the rig pitches slowly like a boat. The camera lags, drifts left after it, and gives up.
+5.6s–7.0s — The frame settles back on the empty kerb and the bus shelter. Dust drifts across it. In the far distance down the street the loaded rig sways away, small and receding. The camera trembles and holds on the empty stop.
+
+PHYSICS
+The triceratops carries enormous mass: each footfall lands heavily and travels up through the harness into the rig, which pitches and settles a beat later than the body that moves it. The harness straps stretch and creak under load and the hide bulges around them. Fine dust puffs from under each foot and hangs.
+The hide is living tissue over muscle: it creases deeply at the shoulder and hip on every stride, rolls over the ribs with each breath, quivers where it is struck, and carries a fine coat of road dust. The painted mark is part of that surface and deforms exactly as much as the skin beneath it does and no more — it creases where the skin creases, stretches where the shoulder works, and returns.
+The rig is rigid steel and moves as one welded object. The ladder hangs on its hinge and swings freely with a delay behind every movement. The quilted blanket compresses under the frame and its edges lift slightly with each step.
+The old woman climbs with real effort and real weight in the bag — it pulls her shoulder down and swings against the ladder. Fabric moves as real fabric. Contact shadows sit tight under every foot and under the rig. Nothing floats.
+
+LIGHTING
+One source only: low late-afternoon sun BEHIND THE CAMERA and slightly to the right, at about 4200 Kelvin, falling flat onto the marked flank. Every shadow stretches away from the camera, deeper into the frame and to the left. The near side of every object is in direct light and the sky inside the frame is an even pale field with no bright spot anywhere in it. Exposure is set by a consumer auto-iris that favours the ground, so the sky sits close to blown out. Auto-white-balance drifts slightly green outdoors and corrects itself once. No second sun, no fill, no rim light, no backlight.
+
+AUDIO
+Diegetic only. NO MUSIC. SFX ONLY — live audio throughout. No score, no soundtrack, no background music of any kind.
+Nobody speaks. Every mouth stays closed for all seven seconds. No mumbling, no breaths shaped into words, no improvised sounds.
+On-camera DV microphone: mono, thin, compressed, with a faint constant hiss and ambience sitting louder than everything else. Shoe soles on metal rungs. A bag thumping onto a wooden bench. The creak and stretch of leather harness under load. Two flat dull slaps on thick hide, muffled and meaty. Deep slow breathing. Heavy padded footfalls through the asphalt. Distant traffic, a dog barking two streets away. Wind brushing hard across the microphone on every camera swing.
+
+CHARACTER ACTING
+THE TRICERATOPS: he is standing at a stop, waiting, and he has done this every day for years. He does not look at the passengers and never turns his head. He is not an animal being ridden — he is a vehicle that breathes. When the slap comes he starts walking without any visible reaction to it, the way a driver pulls away from a kerb.
+THE CONDUCTOR: her whole intention is getting the last passenger up and the bus moving on time. She helps the old woman efficiently rather than kindly, takes the bag without being asked, and slaps the flank the moment the ladder is clear.
+THE OLD WOMAN: she is managing the ladder, and that is her entire world for these seconds.
+PASSENGER A and PASSENGER B: they are commuting. They ride the sway without noticing it, the way people do on a bus they take daily.
+Nobody in the frame finds any of this remarkable. Nobody performs, nobody mugs, nobody looks at the lens.
+
+STYLE
+Format: consumer MiniDV camcorder footage, 2003, filmed through a cheap screw-on anamorphic adapter.
+Image: soft, washed-out, low-contrast picture with lifted milky blacks; visible chroma noise in the shadows; early digital compression blocking across flat areas; interlace-era softness; auto-exposure pumping; auto-white-balance drifting slightly green.
+Optics: oval elliptical bokeh, horizontally stretched highlights, smeared soft corners against a crisp centre, chromatic aberration toward the frame edges, curved barrel distortion on straight lines.
+Colour: faded municipal palette — dusty asphalt, grey-brown hide, chalky pastel siding, grey concrete, drab worn coats. The one warmer accent is the faded dark red of the quilted saddle blanket, with its source inside the frame.
+Skin and materials: ordinary, unretouched, softened by the format. Real photographed surfaces throughout.
+Physics: gravity and inertia respected, mass has real weight, correct contact shadows.
+
+QUALITY
+The image is soft in the way a camcorder is soft and stable in the way a hand is stable — the softness and the shake belong to the capture, and the underlying scene stays coherent and readable in every frame. Limbs stay attached and correctly jointed. The rig stays one solid welded structure. The animal keeps one continuous unbroken body across the frame with one head, one tail and four legs. The painted mark on his flank stays a single stable graphic with identical letterforms in every frame, moving with the skin and never doubling, never re-spelling itself, never sliding across the body. The five subjects stay identical to their descriptions from the first frame to the last.
+
+POSITIVE CONSTRAINTS
+Exactly five subjects are in this shot for its entire length: four people and one triceratops. The stop stays otherwise empty — no other pedestrians, no passing cars, no other animals, no second dinosaur at any distance.
+The rig on his back is open on every side: two benches, tube railings and a saddle blanket, and the animal flank below it stays fully visible and unobstructed for the whole shot.
+The triceratops stands with all four feet planted at the kerb from the first frame until 4.2s, when he begins walking and continues in one direction, to frame-left, until he is out of frame. His head is out past the left edge and his tail out past the right edge for as long as he is at the stop. He never turns his head.
+The supplied RIDGE mark is painted directly on his flank exactly once, in flat matte white, spelled R-I-D-G-E, large, facing the camera, with the identical letterforms of the attached artwork held stable in every single frame. It is the only lettering in the entire picture — every other surface, garment, sign, shelter, fence and vehicle stays plain and unmarked.
+The crash zoom happens exactly once, at 1.8s, inward only, and lands on the marked flank. The flank then holds still in the middle of the frame from 2.6s to 3.6s. The conductor slaps the hide exactly twice, at 3.6s.
+The camera holds one physical position on the kerb for all seven seconds and reaches its closer framing by zooming.
+Every shadow points away from the camera, deeper into frame, and the visible sky is plain and even.
+Every person keeps their mouth closed and their eyes off the lens, and every garment reads as second-hand and sun-faded. Everything belongs to 2003 or earlier: no smartphones, no flat panels, no LED lighting, no modern car bodies.
+Contact shadows read clearly. Nothing floats. Eyes stay natural with no glow. Every surface reads as real photographed material. No subtitles, no captions, no watermark, no on-screen text of any kind.
+Photoreal. NON-IP. 16:9. 7s. SFX only. NO CGI. Real consumer camcorder capture.

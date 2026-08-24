@@ -1,0 +1,98 @@
+SCENE CONTEXT
+EXACT 2 HUMANS AND 2 DINOSAURS — NO DUPLICATES: THE BOY, THE MICRO-RAPTOR, THE SUIT MAN, THE T-REX. No other people, no other animals, no additional dinosaurs anywhere in the shot.
+A single continuous 8-second handheld camcorder take on an empty suburban street in the late afternoon of 2003. A boy walks his cat-sized pet raptor down the pavement. A man in a suit stands at the kerb lighting a cigar, the steel leash of a full-grown T-rex hanging slack from his fist. Nobody in the frame finds any of this remarkable. Only the person holding the camera does.
+
+LOCATION MAP (locked — pure spatial map)
+— THE STREET: a suburban residential street that runs diagonally from the lower-left foreground into the upper-right distance. American small-town bones aged into post-Soviet wear.
+— FRAME-LEFT: a row of single-storey clapboard and vinyl-sided houses, paint sun-bleached to chalky pastel, wooden mailbox posts along the kerb. They read as one continuous pale wall.
+— FRAME-RIGHT: a low chain-link fence with tin-roofed garages behind it, in shade.
+— THE ANCHOR: a leaning wooden utility pole stands at x 70%, its slack cables sagging across the sky toward the upper-right distance.
+— FAR BACKGROUND, above the treeline: one grey concrete nine-storey panel block.
+— A boxy sedan and a battered pickup are parked nose to tail at the left kerb, in the midground.
+— FOREGROUND: an overgrown hedge fills the lower-left corner, close to the lens and out of focus.
+— GROUND: asphalt cracked and patched with mismatched black rectangles; high poured-concrete kerbs; weeds pushing through the pavement cracks.
+— 180° AXIS: the camera stays on the house side of the street for all eight seconds and never crosses to the garage side.
+— Eyelines: the boy looks down at his raptor and ahead down the pavement, never at the lens. The suit man looks down at his own cigar. The T-rex looks out over the rooftops toward the far end of the street. Nobody looks at the camera at any point.
+
+SCALE LOCK — VISIBLE PROOF IN THE PICTURE
+The T-rex is a full-grown adult. His head rides level with the roof ridges of the two-storey houses. His knee is level with the suit man's chest. One of his feet is as long as the parked sedan is wide. From the camera's position the frame cannot hold his feet and his head at the same time at any point in the shot, and his body is cut off by the top edge of frame from the first frame to the last. His shadow falls across the entire width of the street and runs off the left edge of frame.
+The MICRO-RAPTOR is the size of a house cat — his back is level with the boy's knee, and his whole body is about 8% of frame height in the opening framing.
+A T-rex that reads as a large horse, or that fits comfortably inside the frame beside a standing human, = failed take. If scale is ever uncertain, render the humans SMALLER, never larger.
+
+FIRST FRAME AND SPATIAL BLOCKING
+ARMATURE: one strong diagonal — the pavement running from the lower-left corner to the upper-right distance — crossed by one massive vertical block on the right side of frame: the T-rex's near leg, entering at the bottom edge and leaving through the top edge.
+VALUE: the pale continuous house fronts on the left carry the light mass; the T-rex's leg and the shaded garages on the right carry the dark mass; the boy stands as a dark figure against the pale houses. The single highest contrast in the frame is the orange coal of the cigar against the man's dark suit.
+LINE: every strong edge — the kerb, the sagging cables, the roof ridges, the long shadows on the asphalt — runs to the upper right and terminates where the T-rex's leg leaves the top of frame.
+The first frame is already the full street with everyone in place, moving, mid-action — no empty establishing beat, no camera move on frame one.
+THE BOY walks at x 22% to 34%, on the pavement, in three-quarter profile, moving away from camera down the street, leash hand extended down and forward.
+THE MICRO-RAPTOR trots at x 12% to 20%, on the asphalt just off the kerb, ahead of the boy and at the end of a taut retractable leash.
+THE SUIT MAN stands at x 54% to 64%, boots planted at the kerb edge, in three-quarter profile, head bowed over the cigar in his cupped hands.
+THE T-REX'S NEAR LEG fills x 72% to 96%, running from the bottom edge of frame to the top edge of frame, unbroken. Behind it, the tail crosses out through the right edge.
+
+CHARACTERS (no reference images — these descriptions are the identity)
+THE BOY: a 12-year-old boy, thin, with a bowl of dark hair and a sunburnt nose. Baggy knee-length shorts, an oversized plain faded t-shirt with no print and no text, white socks pulled high, scuffed canvas sneakers. He holds a small plastic retractable leash. Ordinary unretouched skin, a scraped knee, a slight forward lean as he walks.
+THE MICRO-RAPTOR: a cat-sized feathered raptor. Rust-brown plumage with dark barring, bare scaled legs, a long stiff tail held straight out for balance, a narrow snout with small teeth. A thin nylon harness across his chest. He moves like a bird — sharp head flicks, a jerky high-stepping trot, sudden freezes.
+THE SUIT MAN: a 50-year-old heavy-set man, jowly, thinning hair combed flat, a grey moustache. A brown suit one size too tight, jacket unbuttoned over a belly, collar open and tie pulled loose, cheap dress shoes dusty at the toes. A thick steel cable leash is wound once around his right fist and hangs slack from it. Ordinary unretouched skin, broken capillaries across the cheeks, sweat at the temples.
+THE T-REX: a full-grown Tyrannosaurus, scaled and leathery, olive-grey with darker mottling along the back, a sparse ridge of coarse dark quills down the spine. A thick worn leather collar with brass rivets circles his neck; the steel cable leash runs from it down to the man's fist. Old scars across the shins. He is calm, bored and domesticated.
+
+FORMAT MODE
+One continuous 8-second shot in real time. The camera does not cut on its own. No speed ramps.
+
+OPTICS
+The camera stands 3.5 metres from the boy, on the pavement, and does not change its position at any point in the shot — the only optical movement is the lens zooming in.
+Camera height 1.1 metres — the horizon crosses the boy at mid-chest and crosses the T-rex's leg below the knee.
+0.0s to 2.6s: 63 degrees diagonal field of view, observational wide, deep readable context, the street visible to the frame edges, straight lines carrying gentle barrel curvature toward the corners.
+2.6s to 8.0s: 29 degrees diagonal field of view, short-telephoto compression, the background pressed flatter behind the subject, the frame filled by whatever the lens is pointed at. This framing is reached by the lens zooming from the same physical spot, never by the camera walking closer.
+Focus is a consumer autofocus that hunts: it lags a beat behind every reframe, overshoots slightly, breathes, and settles. Soft oval bokeh. Clean crisp glass at the frame centre, softness smearing into the corners, chromatic fringing at the frame edges.
+Verification of the lens: on the wide, the nearest mailbox post is three times the width of the fourth one down the row and the gaps between them collapse quickly toward the distance. After the zoom, the roof ridges stack into a shallow flat band.
+
+CAMERA
+Handheld, carried by a real person with real arm weight: a constant 2 to 4 centimetre tremor, small searching reframes that hunt and re-centre the subject, organic weight shifts, and a visible lag before the camera swings toward anything that moves. The framing is imperfect and constantly corrected — the subject drifts toward the frame edge and is pulled back. Auto-exposure pumps whenever the framing swings between the shaded ground and the bright sky, brightening and then correcting over about half a second.
+The camera stays on the house side of the street for all eight seconds. It never tracks forward and never crosses the kerb.
+
+ACTION TIMING
+0.0s–0.6s — Everything is already moving. The boy walks. The micro-raptor high-steps ahead of him at the end of the leash. The suit man's cupped hands glow orange as he draws on the cigar. The T-rex shifts his weight from one foot to the other and the whole frame trembles once with the contact. The camera holds the wide, drifting a few degrees as the operator walks.
+0.6s–2.6s — The camera follows the boy and the raptor down the pavement, letting them drift toward frame-left and then correcting back. The raptor stops hard, cocks his head sideways at the kerb and stabs his snout down at a weed; the leash goes taut and the boy's arm jerks back. The boy tugs twice, patient and bored, and keeps walking.
+2.6s–3.4s — A hard crash zoom in. The lens punches from the wide straight to the cigar in the suit man's hands. The framing overshoots and slides off the hands, snaps back, and the autofocus hunts past the target and pulls back into focus. The image goes soft and smeared for a fraction of a second as it lands. The orange coal flares up as the man draws on it.
+3.4s–4.2s — Held on the man. He lowers the cigar, exhales a slow flat plane of smoke that drifts left across the frame in the low sun, and glances down the street with total indifference. The steel cable in his fist twitches once, tugged from above, and he absently takes up the slack without looking.
+4.2s–6.6s — The camera tilts up along the cable. Past the man's fist, up the length of steel, onto the scarred olive-grey shin, up the leg, past the knee, onto the vast breathing flank, past the collar with its brass rivets — the frame filled edge to edge by animal at every moment of the climb. The exposure blows out as the tilt reaches the sky.
+6.6s–7.4s — The head arrives against the bright sky and the sagging cables. The T-rex slowly turns his head across the frame, mouth closed, one nictitating membrane sweeping across the eye, and looks out over the rooftops at nothing. He is bored.
+7.4s–8.0s — The camera loses him. It drifts off the head and settles on empty sky crossed by two sagging cables, holding there, still trembling, with nothing else in frame.
+
+PHYSICS
+The T-rex carries real mass: slow angular momentum through the neck and tail, a visible delay before any limb changes direction, and a dry impact through the ground on every weight shift that shakes the camera and puffs fine dust off the asphalt around the foot. The steel cable hangs in a real catenary curve, swings with a delay, and pulls the man's arm before it pulls his body.
+The micro-raptor is almost weightless: quick, twitchy, birdlike, his feathers ruffling in the breeze and settling, his tail counterbalancing every head flick.
+Cigar smoke behaves as real smoke: a dense plane on the exhale, tearing into turbulence and dispersing over about two seconds, lit from behind by the low sun.
+Fabric moves as real fabric — the boy's oversized t-shirt lifts and falls with his stride, the man's tight jacket strains across the back when his arm is tugged. Contact shadows sit tight under every foot. Nothing floats.
+
+LIGHTING
+One source only: low late-afternoon sun from frame right, raking straight down the street at about 4200 Kelvin. Every shadow falls long to frame-left across the asphalt, including the T-rex's, which crosses the whole street. The left row of house fronts stands in warm direct light; the right fence and garages fall into cool open shade. Exposure is set by a consumer auto-iris that favours the ground, so the sky sits close to blown out and blows fully during the tilt up. Auto-white-balance drifts slightly green outdoors and corrects itself once during the shot. No second sun, no fill, no rim light.
+
+AUDIO
+Diegetic only. NO MUSIC. SFX ONLY — live audio throughout. No score, no soundtrack, no background music of any kind.
+Nobody speaks. Every mouth stays closed for all eight seconds. No mumbling, no breaths shaped into words, no improvised sounds from any character.
+On-camera DV microphone: mono, thin, compressed, with a faint constant hiss and ambience sitting louder than anything else. Small claws ticking on asphalt. The retractable leash mechanism zipping and clicking. Sneakers scuffing pavement. A deep slow chest-rumble of the T-rex breathing, felt more than heard. A dull heavy thud through the ground on each weight shift. Distant traffic, distant birds, a dog barking two streets away. Wind brushing hard across the microphone whenever the camera swings.
+
+CHARACTER ACTING
+THE BOY: he is walking a pet, and the job today is getting the raptor to keep moving. He is faintly bored and slightly proud, the way a kid is with an animal he has been trusted with. He never looks at the T-rex — it is street furniture to him. He tugs the leash without breaking stride.
+THE SUIT MAN: his entire attention is on getting the cigar lit and drawing properly. He is on a break, and the animal on the other end of the cable is a chore he stopped thinking about years ago. He handles a leash that could never hold anything with the total absent-mindedness of habit. He is not proud of the T-rex and not afraid of it.
+THE MICRO-RAPTOR: he wants the smell at the kerb and he wants it now. Everything else is interruption.
+THE T-REX: he is waiting. He has been waiting a long time. He looks over the rooftops with the flat patience of a large animal on a lead, blinks slowly, and shifts his weight because standing is tiring.
+Nobody in the frame reacts to anything as unusual. There is no wonder, no fear, no spectacle. This is a Tuesday.
+
+STYLE
+Format: consumer MiniDV camcorder footage, 2003, filmed through a cheap screw-on anamorphic adapter.
+Image: soft, washed-out, low-contrast picture with lifted milky blacks; visible chroma noise in the shadows; early digital compression blocking across flat areas; interlace-era softness; auto-exposure pumping; auto-white-balance drifting slightly green.
+Optics: oval elliptical bokeh, horizontally stretched highlights, smeared soft corners against a crisp centre, chromatic aberration toward the frame edges, curved barrel distortion on straight lines.
+Colour: faded municipal palette — grey-beige concrete, dusty asphalt, sun-bleached pastel paint, olive-grey hide. The one saturated accent is the orange coal of the cigar, with its source inside the frame.
+Skin and materials: ordinary, unretouched, softened by the format. Real photographed surfaces throughout.
+Physics: gravity and inertia respected, mass has real weight, correct contact shadows.
+
+QUALITY
+The image is soft in the way a camcorder is soft, and stable in the way a hand is stable — the softness and the shake belong to the capture, and the underlying scene stays coherent, correctly built and readable in every frame. Limbs stay attached and correctly jointed. Structures stay solid. The four subjects stay identical to their descriptions from the first frame to the last.
+
+POSITIVE CONSTRAINTS
+Exactly four subjects are in this shot for its entire length: one boy, one cat-sized feathered raptor, one heavy-set man in a brown suit, one full-grown T-rex. No second dinosaur ever enters the frame, no pedestrians, no passing cars, no other people at any distance. The street stays otherwise empty.
+The T-rex's leg occupies the right side of frame from the first frame; his body is cut off by the top edge of frame at all times; his shadow crosses the whole street. The camera holds one physical position on the house side of the street for all eight seconds and reaches its closer framings by zooming. The crash zoom happens exactly once, at 2.6s, inward only. Every character keeps their mouth closed and their eyes off the lens. Every object is generic and unbranded — no logos, no brand names, no readable text on any sign, shirt, mailbox or vehicle. Everything in frame belongs to 2003 or earlier: no smartphones, no flat panels, no LED lighting, no modern car bodies.
+Contact shadows read clearly. Nothing floats. Eyes stay natural with no glow. Every surface reads as real photographed material. No subtitles, no captions, no watermark, no on-screen text of any kind.
+Photoreal. NON-IP. 8s. SFX only. NO CGI. Real consumer camcorder capture.

@@ -1,0 +1,104 @@
+SCENE CONTEXT
+EXACT 4 HUMANS AND 1 DINOSAUR — NO DUPLICATES: THE STRIKER, THE FAR KEEPER, PLAYER A, PLAYER B, THE ANKYLOSAURUS. There is exactly one dinosaur in this shot and he stays in the left-hand goal the whole time. The right-hand goal is defended by a human keeper.
+A single continuous 7-second handheld camcorder take on a small fenced village football cage in the late afternoon of 2003. A player strikes the ball at the left goal, which has an ankylosaurus standing across its mouth. The animal is grazing and never looks up. His tail swats once, flat and level, and the ball goes the entire length of the pitch into the other net.
+
+LOCATION MAP (locked — pure spatial map)
+— THE PITCH: a small worn village football cage, about 30 metres from goal to goal. Bare trampled earth in both goal mouths, patchy dry grass in the middle, faded lime markings mostly gone.
+— THE LEFT GOAL sits at x 6% to 26%, roughly 22 metres from camera. Welded steel-tube frame, orange-red paint flaking to rust, loose sagging net.
+— THE RIGHT GOAL sits at x 74% to 94%, roughly 22 metres from camera, an identical frame and net facing it across the pitch.
+— BOTH GOALS ARE VISIBLE IN THE SAME FRAME for the entire shot. The pitch runs flat across the frame between them, left to right.
+— THE CAMERA stands 25 metres back from the near touchline, level with the centre of the pitch, aimed square across it. The whole cage fits inside the framing.
+— PERIMETER: chain-link fencing behind the far touchline, poplars behind that. Low tin-roofed sheds and one grey panel block above the treeline in the far distance.
+— 180° AXIS: the camera stays on this side of the pitch for all seven seconds and never crosses it.
+— Eyelines: every human eye follows the ball. The ankylosaurus looks down at the grass between his own front feet for the entire shot and never once looks at the ball, the players, or the camera.
+
+SCALE LOCK — VISIBLE PROOF IN THE PICTURE
+The ankylosaurus stands broadside INSIDE the left goal, not in front of it. The goal frame is visible around him at all times: the crossbar passes above the dome of his back, the left post stands beside his head, the right post stands beside the base of his tail. His body fills the whole opening between the posts and there is no daylight visible between his belly and the ground or between his flank and either post. He is roughly eight metres from nose to tail-club, about as long as the goal is wide, and as heavy as a small truck.
+An ankylosaurus standing on open grass with the goal somewhere else in the frame, or one that leaves open daylight inside the goal mouth, = failed take.
+
+FIRST FRAME AND SPATIAL BLOCKING
+ARMATURE: one flat horizontal band — the pitch — running the full width of frame, with a heavy dark mass anchored at each end: the armoured animal filling the left goal, the lone keeper standing in the right goal.
+VALUE: the pale dry grass and the plain bright sky carry the light mass; the animal, the two rusted goal frames and the poplars carry the dark mass. The single highest contrast in the frame is the white ball — it stays the brightest small object in the frame in every single frame of the shot.
+LINE: the touchline, the goal lines and the long shadows all run flat and horizontal. The ball's flight runs along that same horizontal, first right to left, then left to right.
+The first frame is already mid-event: THE STRIKER's boot is in contact with the ball. No empty establishing beat, no camera move on frame one.
+THE ANKYLOSAURUS stands at x 8% to 24%, broadside inside the left goal, head down to the grass, tail-club resting on the bare earth.
+THE STRIKER is at x 52% to 60%, in the middle of the pitch, side-on to camera, planted on his left foot with his right boot swinging through the ball.
+THE BALL is at x 50%, at ankle height, leaving his boot.
+PLAYER A is at x 38%, ten metres behind the striker, jogging.
+PLAYER B is at x 64%, standing with his hands on his hips.
+THE FAR KEEPER stands at x 82%, on the line of the right goal, knees bent, weight forward, arms loose and ready.
+
+CHARACTERS (no reference images — these descriptions are the identity)
+THE ANKYLOSAURUS: a heavily armoured quadruped dinosaur, roughly eight metres nose to tail-club, low and immensely broad. Back and flanks paved with rows of rounded bony osteoderms in dark olive and brown, the largest the size of dinner plates, with blunt conical spikes flaring along both sides. A wide flat wedge-shaped skull with small horns at the rear corners and a hard beaked mouth. Short thick pillar legs with splayed toes. A long stiff tail carried straight out, ending in a fused bony club the size of a car wheel. Cracked weathered dusty hide.
+THE FOUR PLAYERS: ordinary amateur players, ages roughly 18 to 30, in plain mismatched kit — coloured t-shirts, plain shorts, worn boots, socks pushed down. No logos, no numbers, no lettering on any garment. Ordinary unretouched skin, sweat-dark shirts, grass-stained knees. THE FAR KEEPER wears a plain long-sleeved top and battered gloves.
+THE BALL: an old white and black panelled football, scuffed grey, slightly under-inflated.
+
+FORMAT MODE
+One continuous 7-second shot in real time. The camera does not cut on its own. No speed ramps.
+
+OPTICS
+The camera stands 25 metres back from the near touchline and does not change its physical position at any point — the only optical movement is the lens zooming in once.
+Camera height 1.5 metres — the horizon crosses the standing players at chest height and crosses the ankylosaurus above the dome of his back.
+0.0s to 3.0s: 63 degrees diagonal field of view, observational wide, both goals and the whole pitch inside the framing at once, straight lines carrying gentle barrel curvature toward the corners.
+3.0s to 7.0s: 29 degrees diagonal field of view, short-telephoto compression, the fencing and poplars pressed flat behind the subject. Reached by the lens zooming from the same physical spot, never by the camera walking closer.
+Focus is a consumer autofocus that hunts: it lags a beat behind every reframe, overshoots, breathes, and settles. Soft oval bokeh. Clean crisp glass at the frame centre, softness smearing into the corners, chromatic fringing at the frame edges.
+
+CAMERA
+Handheld, carried by a real person with real arm weight: a constant 2 to 4 centimetre tremor, small searching reframes that hunt and re-centre the subject, organic weight shifts, and a visible lag before the camera swings toward anything that moves. The framing is imperfect and constantly corrected. Auto-exposure pumps as the framing swings between the dark ground and the bright sky, brightening and then correcting over about half a second.
+The camera stays in one spot on this side of the pitch for all seven seconds. It never walks forward and never leaves the ground.
+
+ACTION TIMING
+0.0s–0.4s — THE STRIKER's boot is already through the ball. His body twists after the strike, his standing leg braces, his arms fly out. The ball leaves at ankle height on a low flat line toward frame-left. Dry dust kicks up from his planted foot. The camera is already drifting left, lagging behind the ball.
+0.4s–0.9s — The ball crosses the pitch right to left, low and fast, staying below the height of a standing man. The camera chases it and overshoots slightly, then corrects. THE ANKYLOSAURUS keeps his head down in the goal mouth, jaws working sideways on grass, and does not look up. At 0.8s his hips rotate a few degrees and the tail begins to load — the base swings first while the club still drags on the ground.
+0.9s–1.15s — THE TAIL STRIKE. The tail sweeps FLAT and LEVEL across the goal mouth, never rising higher than the dome of his own back, the heavy bony club accelerating through a low wide arc close to the ground and tearing a spray of grass and dirt up behind it. The club meets the ball dead-on at 1.0s: the ball crushes flat against the bone into a hard white disc for a single frame, then explodes off it back the way it came. The impact snaps the camera — the whole frame jolts once and the horizon tilts about three degrees before the operator settles it. The animal's head stays down. He keeps chewing.
+1.15s–3.0s — The ball travels left to right across the entire pitch on a low flat line, rising only slightly, staying below head height of a standing man the whole way. It passes PLAYER A at 1.5s, who ducks and throws both arms over his head, and passes THE STRIKER at 1.9s, who spins on the spot to follow it. The camera whips right after the ball, lagging, catching up, the pitch smearing across the frame, the autofocus hunting and pulling. The tail behind it drops back to the ground with real weight and raises a low sheet of hanging dust.
+3.0s–3.4s — A hard crash zoom in on the right goal. The lens punches from the wide onto the keeper, the framing overshooting past him, snapping back, the autofocus hunting through him and pulling into focus, the image smeared and soft for a fraction of a second as it lands.
+3.4s–4.0s — THE FAR KEEPER launches sideways, fully extended, both gloves stretched out ahead of him and his body flat in the air. The ball passes a clear arm's length beyond his fingertips. He crashes down onto the bare earth on his shoulder and skids. The ball hits the back of the net and the whole net balloons outward, flexing the frame on its posts, then swings back and sags. A puff of dust comes off the netting.
+4.0s–5.2s — The keeper stays down on the ground, props himself on one elbow, and turns his head to look the whole length of the pitch back at the animal. Behind him THE STRIKER walks two steps and stops with both hands laced on top of his head. PLAYER B simply sits down on the grass. Nobody speaks.
+5.2s–5.6s — The camera whips left, fast and messy, back across the pitch, the whole frame smearing into a blur of green and fence, the autofocus lost, and lands roughly on the left goal.
+5.6s–7.0s — The ankylosaurus fills the framing, still standing exactly where he started, still inside the goal with the crossbar above his back. He tears one single mouthful of grass, jaws grinding sideways once, a strand hanging from the corner of his beak. His tail flicks once against the dirt at nothing at all, lifting dust. The camera trembles on him and holds.
+
+PHYSICS
+The ankylosaurus carries enormous mass: every movement starts at the hips and arrives at the extremities late, armour plates shifting slightly against each other over the ribs as he breathes, dust sifting out from between the osteoderms when the tail lands. His four feet compress the earth and stay planted. The tail is rigid along its length and driven entirely from the base — it does not curl or coil, it swings as one stiff lever in a flat horizontal plane, and the heavy club lags behind the base through the whole arc then catches up violently at the end.
+The ball behaves as a real under-inflated leather ball: it deforms visibly on both impacts, flattening against the tail club and again against the far net, and wobbles slightly in flight with a visible slow spin. Its path after the tail strike is low and nearly flat, rising only a little across the pitch.
+The keeper's dive is real human physics: he loads on the near leg, launches sideways rather than upward, hangs fully extended for a fraction of a second, then falls under gravity and lands hard on his shoulder and hip, sliding on the dry earth and raising dust.
+The net is loose rope netting with real slack: it takes the ball, balloons well outward, drags the top bar down a few degrees, swings twice and settles.
+Grass, dirt and dust: the tail strike tears a low fan of torn grass and soil up behind the arc; the landing club raises a flat sheet of dust that hangs in the low light and drifts. Contact shadows sit tight under every foot, under the ball and under the falling body. Nothing floats.
+
+LIGHTING
+One source only: low late-afternoon sun BEHIND THE CAMERA and slightly to the left, at about 4200 Kelvin, throwing flat warm light straight onto the pitch. Every shadow — players, goal frames, the animal, the poplars — stretches away from the camera, deeper into the frame and to the right. The sky inside the frame is a plain pale untextured gradient with no sun disc anywhere in it and no bright source visible. Exposure is set by a consumer auto-iris that favours the ground, so the sky sits close to blown out. Auto-white-balance drifts slightly green outdoors and corrects itself once during the shot. No second sun, no fill, no rim light, no backlight.
+
+AUDIO
+Diegetic only. NO MUSIC. SFX ONLY — live audio throughout. No score, no soundtrack, no background music of any kind.
+Nobody speaks. Every mouth stays closed for all seven seconds. No shouting, no mumbling, no breaths shaped into words.
+On-camera DV microphone: mono, thin, compressed, with a faint constant hiss and ambience sitting louder than anything else. The flat thump of boot on ball. A hard hollow crack as the bone club meets it. The dry heavy thud of the tail landing in dirt. A body hitting packed earth and sliding. The slap and rustle of the far net. Slow wet grinding of the animal chewing. Poplars in the wind, distant traffic, a dog barking past the fence. Wind brushing hard across the microphone on every camera swing.
+
+CHARACTER ACTING
+THE ANKYLOSAURUS: he is eating, and that is his entire intention for all seven seconds. He is not guarding the goal, he does not know it is a goal, and he never registers that anything happened. The tail swat is an idle reflex aimed at nothing — the same flick an animal gives at a fly — and it does not interrupt his chewing for a single frame. His head never comes up and his feet never move.
+THE FAR KEEPER: he genuinely tries. He reads the ball, commits early, and gives it everything he has — and he is still nowhere near it. On the ground he checks the net first, the way a keeper does, and only then looks across the pitch to work out where that came from.
+THE STRIKER: he was certain that was a goal. His hands go to his head because there is nothing else to do with them.
+PLAYER A: pure self-preservation — he ducks first and thinks second.
+PLAYER B: his legs stop working and he sits down.
+Every human in the frame is astonished, and the animal is not. The comedy is entirely in that gap — nobody performs, nobody mugs, nobody looks at the lens.
+
+STYLE
+Format: consumer MiniDV camcorder footage, 2003, filmed through a cheap screw-on anamorphic adapter.
+Image: soft, washed-out, low-contrast picture with lifted milky blacks; visible chroma noise in the shadows; early digital compression blocking across flat areas; interlace-era softness; auto-exposure pumping; auto-white-balance drifting slightly green.
+Optics: oval elliptical bokeh, horizontally stretched highlights, smeared soft corners against a crisp centre, chromatic aberration toward the frame edges, curved barrel distortion on straight lines.
+Colour: faded municipal palette — dry pale grass, bare earth, flaking orange-red paint on rusted steel, olive-brown hide. The one bright accent is the white ball, with its source inside the frame.
+Skin and materials: ordinary, unretouched, softened by the format. Real photographed surfaces throughout.
+Physics: gravity and inertia respected, mass has real weight, correct contact shadows.
+
+QUALITY
+The image is soft in the way a camcorder is soft and stable in the way a hand is stable — the softness and the shake belong to the capture, and the underlying scene stays coherent and readable in every frame. Limbs stay attached and correctly jointed. Both goal frames stay solid and keep their shape and their positions at the two ends of the pitch. The ball exists as one single continuous object for the whole flight, never disappearing and never re-appearing somewhere else. The five subjects stay identical to their descriptions from the first frame to the last.
+
+POSITIVE CONSTRAINTS
+Exactly five subjects are in this shot for its entire length: four human players and one ankylosaurus. The left goal holds the ankylosaurus. The right goal holds a human keeper in a plain long-sleeved top and gloves, and he is the only thing defending it. The pitch stays otherwise empty — no spectators, no passing cars, no other people at any distance.
+The ankylosaurus keeps all four feet planted on the same patch of bare earth for all seven seconds and stays inside the left goal with the crossbar above his back and a post beside his head; only his tail, his jaw and his ribs move. His head stays down at the grass throughout, and he takes exactly one mouthful of grass in the final beat.
+The tail sweep is flat and horizontal, no higher than his own back, and it happens exactly once, at 1.0s. The ball leaves it on a low line and stays below head height of a standing man for the whole flight across the pitch. It is one object with one continuous path, and it is the brightest small object in the frame throughout.
+The keeper dives sideways and full-length at 3.6s, misses by an arm's length, lands on his shoulder and stays on the ground for the rest of the shot.
+Both goals stay in frame at their own ends for the first three seconds. The camera holds one physical position for all seven seconds and reaches its closer framing by zooming; the crash zoom happens exactly once, at 3.0s, inward only.
+The sun stays behind the camera and every shadow points away from it, deeper into frame. The visible sky is plain and even.
+Every player keeps his mouth closed and his eyes off the lens. Every garment is plain — no logos, no brand names, no numbers, no lettering on any shirt, ball, sign, fence or vehicle. Everything belongs to 2003 or earlier: no smartphones, no flat panels, no LED lighting, no modern car bodies.
+Contact shadows read clearly. Nothing floats. Eyes stay natural with no glow. Every surface reads as real photographed material. No subtitles, no captions, no watermark, no on-screen text of any kind.
+Photoreal. NON-IP. 7s. SFX only. NO CGI. Real consumer camcorder capture.

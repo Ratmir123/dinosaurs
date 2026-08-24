@@ -1,0 +1,101 @@
+SCENE CONTEXT
+EXACT 5 HUMANS AND 1 DINOSAUR — NO DUPLICATES: FOUR CHILDREN, THE OLD WOMAN, THE SAUROPOD. No other people, no other animals, no second dinosaur anywhere in the shot.
+A single continuous 7-second handheld camcorder take in a residential courtyard in the late afternoon of 2003. A long-necked sauropod lies across the yard, awake and completely unbothered. Four children are using him as a slide — up the tail, along the back, down the neck into the sandpit. An old woman reads on a bench and never looks up.
+
+LOCATION MAP (locked — pure spatial map)
+— THE COURTYARD: a worn residential yard enclosed on three sides. Packed dirt with patches of dead grass, a concrete path crossing it.
+— THE SAUROPOD LIES ACROSS THE FRAME, left to right, filling the middle band of the picture. His head and his tail both leave the frame at its edges.
+— HIS NECK runs down and to the left, out of the frame at x 0%, its tip resting in a sandpit at the lower-left, at x 4% to 18%.
+— HIS TAIL runs up and to the right, leaving frame at x 100%.
+— BEHIND HIM, FRAME-LEFT: a two-storey clapboard house with a porch, paint sun-bleached to chalky pastel. BEHIND HIM, FRAME-RIGHT: the ground floor of a grey concrete panel block, a rug hung over a balcony rail above.
+— THE ANCHOR: a rusted swing frame stands at x 62%, just behind the animal, its two swings hanging still.
+— FOREGROUND, lower-right corner: a wooden bench with peeling green paint, close to the lens.
+— A carpet-beating rack and a line of laundry stand against the fence in the near midground.
+— 180° AXIS: the camera stays on this side of the yard for all seven seconds and never crosses to the other side of the animal.
+— Eyelines: all four children look at where they are climbing or sliding, never at the camera. The old woman looks down at her newspaper for the entire shot. THE SAUROPOD'S EYE IS OPEN AND AWAKE FROM THE FIRST FRAME TO THE LAST: he tracks each sliding child down the neck with his eye alone, without lifting or turning his head, and rolls it back afterward. He never looks at the camera.
+
+SCALE LOCK — VISIBLE PROOF IN THE PICTURE
+The sauropod is roughly twenty-five metres from nose to tail-tip and the frame cannot hold him: his head is out past the left edge and his tail is out past the right edge at every moment of the shot. His body lies across the entire width of the courtyard, from the porch steps to the panel block. The top of his back sits at the height of the ground-floor window sills behind him, about the height of a man with his arm raised. A child standing on his back is smaller than one of his shoulder blades. His neck, lying on the ground, is longer than a parked car.
+A sauropod that fits inside the frame, or one a child could step over, = failed take. If scale is ever uncertain, render the children SMALLER, never larger.
+
+FIRST FRAME AND SPATIAL BLOCKING
+ARMATURE: one massive horizontal mass — the animal — running the full width of frame and cutting the picture in two, with a single long diagonal descending from it to the lower left: the neck, running down into the sandpit.
+VALUE: the animal is the dark mass, laid across a light field of pale dirt, pale render and blown-out sky. The children on his back stand above the horizon line as small dark silhouettes against the bright sky. The single highest contrast in the frame is the pale polished stripe along the neck against the dark hide.
+LINE: the spine runs flat and horizontal; the neck runs down-left and terminates in the sandpit, which is where the eye lands. The laundry line and the window rows run parallel to the spine.
+The first frame is already the full courtyard with everyone in place, moving, mid-action — no empty establishing beat, no camera move on frame one.
+CHILD 1, in a faded brick-red windbreaker, sits astride the neck at x 30%, already sliding down it toward the sandpit.
+CHILD 2, in a washed-out navy tracksuit, is halfway up the tail at x 78%, on hands and knees, climbing.
+CHILD 3, in a pale mustard t-shirt, stands upright on the animal back at x 52%, arms out for balance, silhouetted against the sky.
+CHILD 4, in a dull olive jumper, sits in the sandpit at x 10%, just landed, brushing sand off.
+THE OLD WOMAN sits on the bench in the lower-right foreground at x 82%, in profile, a folded newspaper held up in both hands.
+
+CHARACTERS (no reference images — these descriptions are the identity)
+THE SAUROPOD: an enormous long-necked sauropod dinosaur, roughly twenty-five metres nose to tail, lying on his belly with his pillar legs folded beneath him. Grey-brown hide, thick and deeply creased, cracked into a coarse plated pattern like old elephant skin, with a row of low blunt spines running along the spine. Small blunt head, wide slow nostrils, and a dark liquid eye with a clear wet catch-light in it, lids heavy and lashless. A long tapering neck stretched flat along the ground and a long tapering tail stretched the other way. ONE TELLING DETAIL: along the upper side of the neck a broad stripe of hide is worn completely smooth and shiny, polished pale by years of children sliding down it, with scuffed sand caught at its lower end. Dust and dry grass stuck to his flank. He is awake, alert and entirely unbothered — a patient old animal lying down on purpose.
+THE FOUR CHILDREN: ordinary neighbourhood kids, roughly 6 to 11 years old, mixed heights and builds, in hand-me-down everyday clothes that have been washed thin — a brick-red nylon windbreaker gone chalky and pale at the shoulders, a navy tracksuit faded to a soft grey-blue with baggy stretched knees, a mustard t-shirt washed almost to cream, an olive jumper with pilled sleeves and a stretched neck. Nothing matches, nothing is new, nothing fits properly: sleeves too long on one, a jumper too short on another. Every colour is muted, dusty and sun-faded, closer to the tone of the dirt and the render behind them than to anything bright. Scuffed trainers with the toes worn open, grubby knees, dust ground into the fabric. No logos, no lettering on any garment. Ordinary unretouched skin, wind-messed hair.
+THE OLD WOMAN: a woman in her seventies in a shapeless cardigan and a headscarf, thick tights, flat shoes, an unbranded plastic bag on the bench beside her. She reads.
+
+FORMAT MODE
+One continuous 7-second shot in real time. The camera does not cut on its own. The lens never zooms and the focal length never changes at any point. No speed ramps.
+
+OPTICS
+ONE LENS FOR THE WHOLE SHOT: 63 degrees diagonal field of view, observational wide, held from the first frame to the last with no zoom and no change of focal length at any point. The courtyard stays readable to the frame edges and straight lines carry gentle barrel curvature toward the corners.
+The camera stands 14 metres from the animal flank, inside the courtyard, and does not change its physical position at any point.
+Camera height 1.5 metres — the horizon crosses the animal body below the line of his back, so the children standing on him are seen from slightly underneath, cut out against the sky.
+Focus is a consumer autofocus that hunts: it lags a beat behind every reframe, overshoots, breathes, and settles. Soft oval bokeh. Clean crisp glass at the frame centre, softness smearing into the corners, chromatic fringing at the frame edges.
+
+CAMERA
+Handheld, carried by a real person with real arm weight: a constant 2 to 4 centimetre tremor, small searching reframes that hunt and re-centre whichever child is moving, organic weight shifts, and a visible lag before the camera swings toward anything new. The framing is imperfect and constantly corrected — a child drifts toward the frame edge and is pulled back. Auto-exposure pumps as the framing swings between the dark hide and the bright sky, brightening and then correcting over about half a second.
+The camera stays in one spot on this side of the yard for all seven seconds. It never walks forward, never leaves the ground, and never zooms — every change of framing comes from the operator turning and drifting, nothing else.
+
+ACTION TIMING
+0.0s–0.5s — Everything is already moving. CHILD 1 is sliding down the polished stripe of the neck, both hands gripping the hide in front of him, gathering speed. CHILD 2 is scrambling up the tail on all fours, slipping back half a step and recovering. CHILD 3 walks two careful steps along the back, arms out. CHILD 4 climbs out of the sandpit. THE OLD WOMAN turns a page. The animal flank rises and falls slowly with his breathing, and his open eye, away at the left end of the neck, is already tracking the child coming down toward him.
+0.5s–1.6s — CHILD 1 reaches the narrow end of the neck, shoots off it and lands feet-first in the sandpit, dropping onto his backside and throwing up a burst of sand. The animal does not flinch and does not move his head; his eye follows the boy all the way down and stops where he lands, then he blinks once, slowly. The child is up again immediately and runs back along the near side of the flank toward the tail. The camera swings left with the slide, overshoots into the sandpit, and corrects back.
+1.6s–2.4s — CHILD 2 crests the top of the tail and gets to his feet on the back, arms wide. CHILD 3 sits down astride the neck and starts to shuffle himself forward onto the polished stripe. The animal eye rolls back up the neck to the new one. The camera drifts right and up, following the ridge of the spine.
+2.4s–3.4s — THE BREATH. The animal takes one long deep inhale and the whole flank swells upward, lifting the two children standing on his back by a good half-metre. CHILD 2 loses his footing, drops onto his backside on the spine and grabs a low spine-ridge with both hands. CHILD 3, already on the neck, is tipped sideways and starts sliding early, twisted half-around. Dust puffs off the hide along the whole length of the animal. The camera jolts slightly and the operator over-corrects.
+3.4s–4.5s — The flank sinks back down on the exhale, a long slow hiss of air. CHILD 3 slides the rest of the neck sideways and lands sprawling in the sand, laughing. CHILD 2 stays sitting on the spine, holding on. CHILD 4 is already climbing the tail again. THE OLD WOMAN has not looked up once.
+4.5s–6.0s — The camera drifts left along the length of the animal, off the back and down the neck, and comes to rest with the head and the sandpit in the left half of the frame. The framing stays exactly as wide as it has been the whole shot — the operator only turns.
+6.0s–7.0s — Held there. The animal's eye is open and it tracks CHILD 3 as the boy picks himself out of the sand and runs back past the muzzle. The eye follows him to the edge of its range and then rolls slowly back. A nostril flares and blows a small puff of sand across the sandpit. He blinks once, unhurried, and goes on watching the yard. Behind him another child is already climbing the tail. The camera trembles and holds.
+
+PHYSICS
+The sauropod carries enormous mass and is almost entirely still: only the slow swell and sink of the ribcage, the flare of the nostrils, the blink and the roll of the eye move. The hide creases and stretches over the ribs as he breathes, the deep folds opening and closing, and fine dust lifts off the whole length of him on the inhale and settles on the exhale. His weight has flattened the dirt beneath him into a shallow trough, and the ground stays compressed all around his body.
+The eye is wet living tissue: a clear catch-light sits in it, the lid sweeps fully and unhurriedly on each blink, and the eyeball itself rotates in the socket to follow movement while the skull stays completely still on the ground.
+The children move as real children: quick, unbalanced, over-committed. The slide is real friction — a slow start on the wide part of the neck, accelerating as it narrows and steepens, a scrabble for grip, then a hard landing that folds the legs. Sand bursts up and falls back in a real arc on each landing, and grains stick to damp skin and clothes.
+Clothing behaves as real fabric: the windbreaker balloons and flaps on the way down the neck, the jumper rides up when a child is dragged along the hide.
+Contact shadows sit tight under every child, under the animal and under the bench. Nothing floats.
+
+LIGHTING
+One source only: low late-afternoon sun BEHIND THE CAMERA and slightly to the right, at about 4200 Kelvin, throwing flat warm light across the courtyard. Every shadow — children, animal, swing frame, laundry — stretches away from the camera, deeper into the frame and to the left. The near side of every object is in direct light and the sky inside the frame is an even pale field with no bright spot anywhere in it. Exposure is set by a consumer auto-iris that favours the ground, so the sky sits close to blown out. Auto-white-balance drifts slightly green outdoors and corrects itself once during the shot. No second sun, no fill, no rim light, no backlight.
+
+AUDIO
+Diegetic only. NO MUSIC. SFX ONLY — live audio throughout. No score, no soundtrack, no background music of any kind.
+The children are audible but wordless: shrieks, whoops, breathless laughter and grunts of effort only. No words in any language, no names called, no sentences. The old woman is silent and the animal makes no vocal sound at all.
+On-camera DV microphone: mono, thin, compressed, with a faint constant hiss and ambience sitting louder than the children. Trainers scuffing and slapping on dry hide. Bodies thumping into sand. The dry leathery creak of the hide stretching. A vast slow rush of air through the nostrils on the breath. A newspaper page turning close to the microphone. Laundry snapping in the wind, distant traffic, a dog barking past the block. Wind brushing hard across the microphone on every camera swing.
+
+CHARACTER ACTING
+THE SAUROPOD: he is awake and he is allowing this. He lay down here on purpose and he is not going to get up, and his whole performance is patience — the flat, unhurried tolerance of an old animal who has been climbed on every afternoon for years. He never lifts his head, never turns his skull and never moves a limb, but he is plainly present: his eye follows each child down the neck and back up again, he blinks on his own rhythm, and his nostrils work. He is not asleep, not drugged and not indifferent — he is watching, and he simply does not care.
+THE CHILDREN: this is the ordinary thing they do after school, and their attention is entirely on the mechanics of it — where to grip, when to let go, who is next. They are not amazed by the animal any more than a child is amazed by a slide. They race the cycle, they shove for turns, and when one of them wipes out the others laugh at him rather than at the situation.
+THE OLD WOMAN: she is reading, and she has read through this every afternoon for years. She never looks up, not even on the breath. Her total lack of interest is the joke.
+Nobody in the frame finds this remarkable. Nobody performs, nobody mugs, nobody looks at the lens.
+
+STYLE
+Format: consumer MiniDV camcorder footage, 2003, filmed through a cheap screw-on anamorphic adapter.
+Image: soft, washed-out, low-contrast picture with lifted milky blacks; visible chroma noise in the shadows; early digital compression blocking across flat areas; interlace-era softness; auto-exposure pumping; auto-white-balance drifting slightly green.
+Optics: oval elliptical bokeh, horizontally stretched highlights, smeared soft corners against a crisp centre, chromatic aberration toward the frame edges, curved barrel distortion on straight lines.
+Colour: faded municipal palette — packed grey dirt, chalky pastel render, grey-brown hide, dusty concrete. The children clothing sits inside that same muted range, only half a step warmer than the dirt: dusty brick, soft grey-blue, washed cream, dull olive. The one warmer accent is the brick-red windbreaker, and even that reads as old faded nylon, with its source inside the frame.
+Skin and materials: ordinary, unretouched, softened by the format. Real photographed surfaces throughout.
+Physics: gravity and inertia respected, mass has real weight, correct contact shadows.
+
+QUALITY
+The image is soft in the way a camcorder is soft and stable in the way a hand is stable — the softness and the shake belong to the capture, and the underlying scene stays coherent and readable in every frame. Limbs stay attached and correctly jointed. The animal keeps one continuous unbroken body from the left edge of frame to the right edge, with one neck and one tail and no breaks in his silhouette. His eye stays a wet, correctly-formed, open living eye in every frame it is visible. The six subjects stay identical to their descriptions from the first frame to the last.
+
+POSITIVE CONSTRAINTS
+Exactly six subjects are in this shot for its entire length: four children, one old woman, one sauropod. The courtyard stays otherwise empty — no other residents, no passing cars, no other animals, no second dinosaur at any distance.
+The sauropod stays lying in exactly the same place for all seven seconds with his legs folded under him, his head on the ground beyond the sandpit and his tail out past the right edge of frame. His body crosses the entire width of the frame at every moment and both his head and his tail extend beyond the frame edges. Only his ribcage, his nostrils, his eyelid and his eyeball move — his skull stays flat on the ground and never lifts or turns.
+HIS EYE IS OPEN, WET AND AWAKE IN EVERY SINGLE FRAME OF THE SHOT. It carries a clear catch-light, it tracks the children up and down the neck, and it blinks twice at an unhurried pace. It never stays shut and it never looks dead or glassy.
+The polished worn stripe stays visible along the upper side of the neck throughout, and that is the surface every child slides down.
+Children are on the animal at all times: at least one climbing the tail and at least one on the back or the neck in every single frame. The breath happens exactly once, at 2.4s.
+The camera holds one physical position and ONE FIXED FOCAL LENGTH for all seven seconds. There is no zoom of any kind at any point; the framing changes only because the operator turns and drifts.
+The sun stays behind the camera and every shadow points away from it, deeper into frame. The visible sky is plain and even.
+Every garment in the frame reads as second-hand, washed thin and sun-faded, in the same dusty range as the ground and the walls, so the clothing sits into the picture instead of standing out of it. The old woman keeps her eyes on her newspaper for all seven seconds. Every child keeps their eyes off the lens. Every garment and object is plain — no logos, no brand names, no lettering on any clothing, sign, fence or vehicle. Everything belongs to 2003 or earlier: no smartphones, no flat panels, no LED lighting, no modern car bodies.
+Contact shadows read clearly. Nothing floats. Eyes stay natural with no glow. Every surface reads as real photographed material. No subtitles, no captions, no watermark, no on-screen text of any kind.
+Photoreal. NON-IP. 16:9. 7s. SFX only. NO CGI. Real consumer camcorder capture.
