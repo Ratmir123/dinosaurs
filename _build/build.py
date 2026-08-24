@@ -39,7 +39,7 @@ REEL_URL = "https://www.instagram.com/by.ridge/"
 FFMPEG = "ffmpeg"
 
 # ink-2, so a transparent reference lands on the same surface the page uses
-REF_BG = (24, 18, 17)
+REF_BG = (18, 21, 18)
 
 # --------------------------------------------------------------------------
 # scene data
@@ -270,7 +270,7 @@ def build_og():
         "eq=brightness=-0.06:saturation=1.02,"
         f"drawtext=fontfile='{font}':text='DINOSAURS':fontcolor=white:fontsize=92:"
         "x=72:y=352:shadowcolor=black@0.55:shadowx=0:shadowy=3,"
-        f"drawtext=fontfile='{font}':text='FREE PROMPT PACK  /  5 SHOTS':fontcolor=0xFD9C95:"
+        f"drawtext=fontfile='{font}':text='FREE PROMPT PACK  /  5 SHOTS':fontcolor=0xC4FB41:"
         "fontsize=29:x=76:y=472:shadowcolor=black@0.6:shadowx=0:shadowy=2"
     )
     ok = run([FFMPEG, "-v", "error", "-y", "-ss", "0.55", "-i", str(src),

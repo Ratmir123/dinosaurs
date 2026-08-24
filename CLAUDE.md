@@ -101,14 +101,16 @@ actually moved.
 
 ## Design system
 
-Same system as the Odyssey pack, one colour axis moved. Do not drift from it.
+Same system as the Odyssey pack, same hue family, one notch brighter. Do not drift from it.
 
 - **Type**: Archivo, variable width axis, `font-stretch: 112-118%` on display sizes. Geist Mono for
   data, labels and prompt text. Inter is banned, it is the training data default.
-- **Colour**: OKLCH only, no pure black. Warm red tinted charcoal ramp `--ink`, `--ink-2`, `--ink-3`.
-  One accent, `--accent`, a pastel red at `oklch(0.790 0.118 24)`, which is the sRGB gamut edge for
-  that hue and lightness. Push the chroma any higher and the red channel clips, the browser clamps
-  it, and the token stops meaning what it says. The stats band is the single drenched surface.
+- **Colour**: OKLCH only, no pure black. Green tinted charcoal ramp `--ink`, `--ink-2`, `--ink-3`,
+  identical to the Odyssey ramp. One accent, `--accent`, a lime green at `oklch(0.918 0.210 125)`
+  (#C4FB41). That is the Odyssey acid (`oklch(0.900 0.185 122)`, #CAF052) pushed brighter and more
+  saturated, 7.5% more relative luminance. It sits at 91% of the sRGB chroma headroom for its hue,
+  which is deliberate: the last 9% is there so rounding cannot clip the green channel and turn the
+  token into something other than what it says. The stats band is the single drenched surface.
 - **Type scale**: 11 / 13 / 15 / 17 px plus display clamps. Weights 400, 500, 700, nothing else.
 - **Spacing**: 4 px grid for padding, radii and control heights.
 - **Motion**: one curve, `--out: cubic-bezier(.23,1,.32,1)`. Only transform and opacity animate.
@@ -116,12 +118,12 @@ Same system as the Odyssey pack, one colour axis moved. Do not drift from it.
 - **Banned**: neon glows, gradient text, glassmorphism, side stripe borders, three identical cards
   in a row, hero metric card grids.
 - **Contrast**: measured in the browser, not guessed. Body text 5.2:1 or better, band labels 5.4:1
-  or better. Current floor is `--dim` on `--ink` at 5.34:1 and the band labels at 5.92:1. Recheck by
+  or better. Current floor is `--dim` on `--ink` at 5.22:1 and the band labels at 6.61:1. Recheck by
   painting each token to a canvas and reading the pixels back, because `getComputedStyle` returns
   the `oklch()` string and a naive parser will read it as RGB and report nonsense.
 
-The Odyssey band labels sit at 74% opacity. Here they are at 80%, because the pastel red band is
-lighter than the acid lime one and 74% did not clear 5.4:1. Do not copy that number back across.
+Band label opacity is 74%, the same as Odyssey. An interim pastel red version of this page needed
+80% to clear 5.4:1; the lime band does not, and 74% measures 6.61:1.
 
 ## Copy rules
 
@@ -145,6 +147,13 @@ Do not quietly reverse these.
   "it is 2003, somebody has a camcorder, and dinosaurs are boring" and Ratmir cut it: boring is what
   the shots are doing, not what the visitor is being offered. The 2003 camcorder look stays as a
   fact, on the per shot chips and as a trailing clause, never as the hook.
+- **The palette is green, and the whole page has to move together when it changes.** The accent is
+  not only a CSS token. It is also baked into `favicon.svg`, `apple-touch-icon.png`, the subtitle
+  drawn onto `assets/og.jpg` by `build_og()`, `REF_BG` in `build.py` (the surface the transparent
+  logo tile is flattened onto), the `theme-color` meta, and roughly eight literal `oklch()` values
+  in the sheet that cannot use a var: the sticky top bar, the loading pill, the dark button hover,
+  the band label colour, the band rule, the prompt fade gradient and the lightbox scrim. Delete
+  `assets/og.jpg` and `assets/r/logo.webp` before rebuilding or the build keeps the old ones.
 - **`REEL_URL` in `build.py` points at the profile, not the post.** The reel URL was not known when
   the page was built. Set it to the actual post and rebuild.
 - **The model is not named on the page.** Chips say `16:9`, `SFX only`, `2003 camcorder`, all facts
