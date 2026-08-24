@@ -8,9 +8,9 @@ The second free prompt pack given away to Ratmir's Instagram audience (@by.ridge
 Same machine as the Odyssey pack, different subject. Someone comments a keyword under the reel, an
 Instagram automation DMs them this link, and the page hands over everything used to make the shots.
 
-Five shots, one joke played completely straight: it is 2003, somebody is holding a camcorder, and
-dinosaurs are boring. A T-rex on a leash at the kerb, an ankylosaurus in a goal mouth, a sauropod
-being used as a slide, a baby dinosaur at the vet, a triceratops running a bus route. For each step
+Five shots on one question: what if dinosaurs were still alive, and friendly? A T-rex on a leash at
+the kerb, an ankylosaurus in a goal mouth, a sauropod being used as a slide, a baby dinosaur at the
+vet, a triceratops running a bus route. For each step
 the page shows the finished clip, the full prompt with a copy button, and a short note on what the
 prompt is actually doing. One zip holds all of it.
 
@@ -140,6 +140,11 @@ Do not quietly reverse these.
   insights panel at capture: 23,811 interactions, 17,975 likes, 3,505 shares, 1,559 saves, all
   rounded up to 24K / 18K / 3.5K / 1.5K for presentation. Numbers are hardcoded in
   `index.template.html` inside `<section class="proof">`. Comments (61) are deliberately not shown.
+- **The page sells the premise, not the format.** The hero asks "what if dinosaurs were still
+  alive, and friendly?" and the two meta descriptions say the same thing. An earlier draft led with
+  "it is 2003, somebody has a camcorder, and dinosaurs are boring" and Ratmir cut it: boring is what
+  the shots are doing, not what the visitor is being offered. The 2003 camcorder look stays as a
+  fact, on the per shot chips and as a trailing clause, never as the hook.
 - **`REEL_URL` in `build.py` points at the profile, not the post.** The reel URL was not known when
   the page was built. Set it to the actual post and rebuild.
 - **The model is not named on the page.** Chips say `16:9`, `SFX only`, `2003 camcorder`, all facts

@@ -1,7 +1,7 @@
 # Dinosaurs, free prompt pack
 
-Five AI shots built to look like 2003 camcorder footage of a world where dinosaurs
-are ordinary. The full prompts and the finished clips.
+What if dinosaurs were still alive, and friendly? Five AI shots, filmed like 2003
+home video. The full prompts and the finished clips.
 
 **Live:** https://ridge-dinosaurs-prompts.vercel.app
 
