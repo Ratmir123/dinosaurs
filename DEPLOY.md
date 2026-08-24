@@ -52,4 +52,4 @@ curl -s -o /dev/null -w "%{http_code}\n" https://ridge-dinosaurs-prompts.vercel.
 curl -sI https://ridge-dinosaurs-prompts.vercel.app/dinosaurs-prompt-pack.zip | grep -i -E "content-length|content-disposition"
 ```
 
-The zip should report 14833433 bytes until the pack contents actually change.
+The zip should report 14833422 bytes until the pack contents actually change.

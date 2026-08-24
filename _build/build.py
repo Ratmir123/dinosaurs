@@ -317,8 +317,7 @@ and you get the failed take.
 The clips in here are the web encodes, same frame size as the masters. They are
 for reference and for reposting, not for grading.
 
-Free to use, edit and post. No credit required. If it works, tell me,
-I want to see it.
+Free to use, edit and post. If it works, tell me, I want to see it.
 
 @by.ridge on Instagram
 @cg_ridge on X
